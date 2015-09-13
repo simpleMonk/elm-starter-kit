@@ -1,0 +1,38 @@
+{
+  "name": "elm-starter-kit",
+  "version": "1.0.0",
+  "description": "Elm starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleMonk/elm-starter-kit.git"
+  },
+  "keywords": [
+    "elm",
+    "gulp"
+  ],
+  "author": "Senthil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpleMonk/elm-starter-kit/issues"
+  },
+  "homepage": "https://github.com/simpleMonk/elm-starter-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "chokidar": "^1.0.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-elm": "^0.2.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6",
+    "multi-glob": "^0.4.0",
+    "rimraf": "^2.4.3",
+    "run-sequence": "^1.1.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
